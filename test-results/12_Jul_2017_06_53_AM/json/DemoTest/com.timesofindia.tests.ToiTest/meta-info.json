@@ -1,0 +1,52 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "name": "beforeMethod",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1499842427010,
+      "duration": 23433,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "Times of India City",
+        "groups": [
+          "TOI_Assignemnt_3"
+        ],
+        "name": "toiVerificationOfCityOption",
+        "sign": "ToiTest.toiVerificationOfCityOption()[pri:0, instance:com.timesofindia.tests.ToiTest@25af5db5]"
+      },
+      "dependsOn": [],
+      "startTime": 1499842450561,
+      "duration": 89012,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "name": "afterMethod",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "startTime": 1499842539686,
+      "duration": 2507,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

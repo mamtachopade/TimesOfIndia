@@ -1,0 +1,7 @@
+most.popular.anytime.text = {\"locator\":\"xpath=//a[@id='news-any']\",\"desc\":\"Most popular Anytime Tab Text\"}
+most.poppular.recent.news.title={\"locator\":\"xpath=//*[@id='content']/div[@class='wrapper clearfix']/h1\",\"desc\":\"Most Popular recent news title\"}
+most.commented.text={\"locator\":\"xpath=//*[@id='content']/div/h1\",\"desc\":\"Most popular Most Commented Title text\"}
+most.commented.timelist={\"locator\":\"xpath=//div[@class='topicstab-nav clearfix']/a\",\"desc\":\"Most popular time list\"}
+most.commented.newslist={\"locator\":\"xpath=//*[@id='itemContainer']/li/span/strong/a\",\"desc\":\"newws list\"}
+most.commented.news.desclist={\"locator\":\"xpath=//ul[@id='itemContainer']/li/span/div/following-sibling::*\",\"desc\":\"newws desc list\"}
+

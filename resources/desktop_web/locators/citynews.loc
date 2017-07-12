@@ -1,0 +1,10 @@
+city.latest.news.title = {\"locator\":\"xpath=//div[@id='c_articlelist_stories_2']/ul[1]/li/span[1]/a\",\"desc\":\"City News Title\"}
+city.latest.news.time.list = {\"locator\":\"xpath=//div[@id='c_articlelist_stories_2']/ul[1]/li/span[2]/span[2]\",\"desc\":\"City News Time list\"}
+most.popular.tab.list={\"locator\":\"xpath=//*[@id='c_wdt_mp_1']/div/ul/li\",\"desc\":\"Most Popular tab list\"}
+most.popular.inner.tab.list={\"locator\":\"xpath=//*[@id='c_wdt_mp_1']//ul[@class='inner-tabs']/li\",\"desc\":\"Most Popular inner tab list\"}
+read.news.list={\"locator\":\"xpath=//*[@id='c_wdt_mp_1']//div[@class='tab-content']/ul/li\",\"desc\":\"Read and In this section news list\"}
+most.popular.link={\"locator\":\"xpath=//div[@class='most-popular-wrapper']//a[text()='MORE POPULAR NEWS']\",\"desc\":\"Most Popular Link Text\"}
+
+
+
+
